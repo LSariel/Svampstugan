@@ -1,0 +1,16 @@
+Fota svamp
+Image recognition
+svampsök
+listor/collections - taggar "ätit"/"plockat"
+anteckningar
+karta svampställe
+achievements
+logga in/community
+rekommendationer
+recept
+
+"1st version"
+svampsök
+databas med svampar
+sökalgoritm
+gui
